@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar TODA fuente original
+*.xlsx
+*.xls
+*.csv
+
+# Permitir solo el dataset público
+!data/pensionados_publico.csv
