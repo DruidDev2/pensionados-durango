@@ -213,3 +213,7 @@ __marimo__/
 
 # Permitir solo el dataset público
 !data/pensionados_publico.csv
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
